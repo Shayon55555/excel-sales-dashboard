@@ -19,4 +19,5 @@ Superstore Sales Dataset (50,000+ records)
 - Sales trend, regional performance, and category analysis
 
 ## Dashboard Preview
-(Insert dashboard screenshot here)
+<img width="1540" height="654" alt="Screenshot 2026-01-31 215923" src="https://github.com/user-attachments/assets/ab7df4b5-5c24-474f-b594-0d438a88f633" />
+
